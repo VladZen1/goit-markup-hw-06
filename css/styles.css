@@ -443,7 +443,31 @@ img {
   border-radius: 4px;
   margin-bottom: 30px;
 }
-
+.footer-form {
+  margin-left: 93px;
+  width: 570px;
+  height: 86px;
+}
+.footer-form-p {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.footer-form-input {
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+}
+.footer-form-btn {
+  margin-left: 12px;
+  display: flex;
+  padding: 8px 26px;
+  justify-content: space-between;
+  align-items: center;
+}
 /*Портфолио*/
 .visually-hidden {
   position: absolute;
